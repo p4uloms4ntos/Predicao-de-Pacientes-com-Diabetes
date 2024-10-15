@@ -61,4 +61,4 @@
 
 <p dir="auto">___________________________________________________________________________________________________________________</p>
 
-<p>Para entender como essas conclus&otilde;es foram alcan&ccedil;adas, acompanhe o desenvolvimento do problema de neg&oacute;cio proposto, algoritmo criados e t&eacute;cnicas utilizadas clicando aqui.</p>
+<p>Para entender como essas conclus&otilde;es foram alcan&ccedil;adas, acompanhe o desenvolvimento do problema de neg&oacute;cio proposto, algoritmo criados e t&eacute;cnicas utilizadas clicando <a href="https://github.com/p4uloms4ntos/Predicao-de-Pacientes-com-Diabetes/blob/master/Detec%C3%A7%C3%A3o%20de%20pacientes%20com%20diabetes.ipynb">aqui</a>.</p>
